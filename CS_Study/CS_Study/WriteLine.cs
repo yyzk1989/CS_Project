@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CS_Study
 {
-    class Program
+    class WriteLine
     {
         static void Main(string[] args)
         {
